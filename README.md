@@ -10,9 +10,6 @@
 - **Google Colab Notebook**  
   👉 [Open in Colab](<YOUR_COLAB_LINK_HERE>)
 
-- **GitHub Repository**  
-  👉 [Repository Link](<YOUR_GITHUB_REPO_LINK_HERE>)
-
 - **Final PDF Report**  
   Included in `/report/ds_report.pdf`
 
