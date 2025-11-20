@@ -104,7 +104,7 @@ Final analysis and conclusions in `report/ds_report.pdf`.
 ## 🎯 How to Run
 
 1. Open the [Colab Notebook]([<YOUR_COLAB_LINK_HERE>](https://colab.research.google.com/drive/1d68x_YV3KpVNMExpLS-aOnzyuHpsDs8j?usp=sharing))  
-2. Upload `historical_data.csv` and `fear_greed_index.csv` (if needed)  
+2. Upload `historical_data.csv` and `fear_greed_index.csv` 
 3. Run all cells — this will regenerate all CSVs and plots  
 4. Inspect results in `csv_files/` and `outputs/`
 
